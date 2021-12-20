@@ -1,0 +1,12 @@
+.icon_bg{
+background-color: blue;
+width: 129px;
+height: 121px;
+border-radius: 35px;
+margin-bottom: 30px;
+}
+.icn{
+align-items: center;
+margin-left: 32px;
+padding-top: 28px;
+}

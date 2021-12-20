@@ -1,0 +1,12 @@
+.train_btn{
+    border: none;
+    position: absolute;
+    border-radius: 40px;
+    padding: 20px 50px;
+    background-color: #f1a501;
+    color: cornsilk;
+    font-weight: 500;
+}
+.train_btn:hover{
+    background-color: #01957d;
+}
