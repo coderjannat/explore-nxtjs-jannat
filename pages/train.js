@@ -30,16 +30,17 @@ const Train = () => {
                                 </Typography>
 
                             </div>
-                            <Link href="/explore">
-                                <div style={{ marginTop: 50 }}>
-                                    <button className={styles.train_btn}> <strong>Learn More</strong></button>
-                                </div>
-                            </Link>
+
+                            <div style={{ marginTop: 50 }}>
+                                <Link href="/explore">
+                                    <button className={styles.train_btn}> <strong>Learn More</strong></button></Link>
+                            </div>
+
                         </Paper>
                     </Grid>
                     <Grid item xs={12} md={6} lg={6}>
 
-                        <div>
+                        <div style={{marginTop:10}}>
                             <img src="https://www.webhuq.com/templates/e_learning_website_8080/assets/images/feature1-img.png" style={{ width: '100%', display: 'block', alignItems: 'center' }} />
                         </div>
 

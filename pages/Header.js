@@ -17,11 +17,11 @@ const Header = () => {
               <Typography variant="h3" component="h2" style={{ fontWeight: 700, lineHeight: 1.6 }} >
                 An excellence center <br /> for education
               </Typography>
-              <Typography variant="body2" style={{ paddingTop: 30, lineHeight: 1.6 }}>
+              <Typography variant="body1" style={{ paddingTop: 30, lineHeight: 1.6, marginBottom: 100 }}>
                 Besnik is the online learning platform that offers various <br /> courses for your development
               </Typography>
-              <div style={{ marginTop: 50, position: 'relative', display: 'flex' }}>
-                <input type="text" name="textfield" id="textfield" className={styles.header_input} />
+              <div className={styles.header_box}>
+                <input type="text" name="textfield" id="textfield" placeholder="Enter your email" className={styles.header_input} />
                 <button className={styles.header_btn}>Ger Started </button>
               </div>
             </Paper>

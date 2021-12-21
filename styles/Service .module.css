@@ -1,8 +1,22 @@
+/* .icon_bg1{
+background-color: #f1a501;
+width: 129px;
+height: 121px;
+border-radius: 35px;
+margin-bottom: 30px;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+} */
 .icon_bg1{
 background-color: #f1a501;
 width: 129px;
 height: 121px;
 border-radius: 35px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 margin-bottom: 30px;
 }
 .icon_bg2{
@@ -10,6 +24,9 @@ background-color: #01957d;
 width: 129px;
 height: 121px;
 border-radius: 35px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 margin-bottom: 30px;
 }
 .icon_bg3{
@@ -17,6 +34,9 @@ background-color: #ffa3a4;
 width: 129px;
 height: 121px;
 border-radius: 35px;
+display: block;
+margin-left: auto;
+margin-right: auto;
 margin-bottom: 30px;
 }
 .icn{
